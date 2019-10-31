@@ -1,0 +1,8 @@
+@import './mixins.scss';
+@import './variables.scss';
+
+.App {
+  text-align: center;
+}
+
+@import './components/NavBar.scss';
