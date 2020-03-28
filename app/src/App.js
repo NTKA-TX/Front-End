@@ -1,16 +1,16 @@
 import React from 'react';
-import './styles/App.scss';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { blue } from './styles/colors'
+
+import './App.css';
 
 //components
-import NavBar from './components/NavBar';
-import Example  from './components/Carousel'
+import {AppRouter} from './components/AppRouter';
 
 function App() {
   return (
-    <div className="App">
-      <NavBar/>
-      <Example/>
+    <div className="App" >
+      <AppRouter />
     </div>
   );
 }
