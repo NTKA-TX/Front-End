@@ -21,7 +21,7 @@ export const AppRouter = () => {
           <Link to="/" >Home</Link>
           <Link to="/about">About</Link>
           <Link>Contact</Link>
-          <a href='https://www.google.com/'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/na/us/logo-center/15_nowaccepting_blue_badge.jpg' style={{height: '40px'}} ></img></a>
+          <a href='https://www.paypal.me/starnesindustries'><img src='https://www.paypalobjects.com/digitalassets/c/website/marketing/na/us/logo-center/15_nowaccepting_blue_badge.jpg' style={{height: '40px'}} ></img></a>
         </Nav>
   
         <Switch>

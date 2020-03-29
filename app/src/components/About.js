@@ -3,7 +3,7 @@ import React from 'react'
 import * as styled from '../styles/styled-components'
 
 // imgs
-import flag from '../images/American-Flag.jpg'
+import flag from '../images/karate-boy.png'
 
 export default function About() {
     return (
